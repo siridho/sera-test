@@ -2,3 +2,4 @@ node-mongo/node_modules/
 node-mongo/.env
 try-firebase/node_modules/
 try-firebase/permissions.json
+try-firebase/routes/fire.js
