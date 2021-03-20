@@ -1,2 +1,4 @@
 node-mongo/node_modules/
 node-mongo/.env
+try-firebase/node_modules/
+try-firebase/permission.json
